@@ -10,7 +10,7 @@ import os
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
-API_KEY = "239bb935fa3e4683dea47c4d19bd5cd5"
+API_KEY = "your API KEY"
 WEATHER_URL = "http://api.openweathermap.org/data/2.5/weather"
 FORECAST_URL = "https://api.openweathermap.org/data/2.5/forecast"
 AQI_URL = "http://api.openweathermap.org/data/2.5/air_pollution"
